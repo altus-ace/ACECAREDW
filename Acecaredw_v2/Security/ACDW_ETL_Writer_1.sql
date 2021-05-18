@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [ACDW_ETL_Writer]
+    WITH PASSWORD = N'c5lvcd}2Hfsr0myM|yvetR3pmsFT7_&#$!~<cafpudsulsq!', SID = 0xCE2BFDDF51F6BF4294BCC747139BE696, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+

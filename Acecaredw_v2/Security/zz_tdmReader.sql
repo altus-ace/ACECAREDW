@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [zz_tdmReader]
+    WITH PASSWORD = N'lvA.dfdrm|^yhe4tipcafPxpmsFT7_&#$!~<NGsul7sqt5ow', SID = 0xD856DE9EA0D50B4F91AD97CEA51BA2F8, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+
